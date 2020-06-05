@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://gitlab.com/Olllom/diffusioncma/-/archive/{{ version }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 0d94957efb08f212557ae625f304c7d8f2aa2e68e40b65776385f45a1fa6290e
+  sha256: e7a0c4c80518c5a894dd562c0585185a56dbf4a6b9956c94d8cca0c756f8ba59
 
 build:
   number: 0
